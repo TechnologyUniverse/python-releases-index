@@ -17,3 +17,12 @@ All files are hosted on https://www.python.org
 ## Legal
 Python is © Python Software Foundation.
 This repository is not affiliated with the PSF.
+
+## Maintenance policy
+
+- **Python 0.x and 1.x**  
+  Historical releases. Maintained manually based on historical data.
+
+- **Python 2.x and 3.x**  
+  Auto-generated from the official python.org archive.  
+  ⚠️ Do not edit these files manually — changes will be overwritten.
