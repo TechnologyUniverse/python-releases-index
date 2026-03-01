@@ -2,10 +2,12 @@
 
 | Version | Release date | Windows | macOS | Source |
 |--------|--------------|---------|-------|--------|
-| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0a5-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0a5-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
+| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0a6-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0a6-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
+| 3.14.3 | — | https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe | https://www.python.org/ftp/python/3.14.3/python-3.14.3-macos11.pkg | https://www.python.org/ftp/python/3.14.3/ |
 | 3.14.2 | — | https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe | https://www.python.org/ftp/python/3.14.2/python-3.14.2-macos11.pkg | https://www.python.org/ftp/python/3.14.2/ |
 | 3.14.1 | — | https://www.python.org/ftp/python/3.14.1/python-3.14.1-amd64.exe | https://www.python.org/ftp/python/3.14.1/python-3.14.1-macos11.pkg | https://www.python.org/ftp/python/3.14.1/ |
 | 3.14.0 | — | https://www.python.org/ftp/python/3.14.0/python-3.14.0rc3-amd64.exe | https://www.python.org/ftp/python/3.14.0/python-3.14.0rc3-macos11.pkg | https://www.python.org/ftp/python/3.14.0/ |
+| 3.13.12 | — | https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe | https://www.python.org/ftp/python/3.13.12/python-3.13.12-macos11.pkg | https://www.python.org/ftp/python/3.13.12/ |
 | 3.13.11 | — | https://www.python.org/ftp/python/3.13.11/python-3.13.11-amd64.exe | https://www.python.org/ftp/python/3.13.11/python-3.13.11-macos11.pkg | https://www.python.org/ftp/python/3.13.11/ |
 | 3.13.10 | — | https://www.python.org/ftp/python/3.13.10/python-3.13.10-amd64.exe | https://www.python.org/ftp/python/3.13.10/python-3.13.10-macos11.pkg | https://www.python.org/ftp/python/3.13.10/ |
 | 3.13.9 | — | https://www.python.org/ftp/python/3.13.9/python-3.13.9-amd64.exe | https://www.python.org/ftp/python/3.13.9/python-3.13.9-macos11.pkg | https://www.python.org/ftp/python/3.13.9/ |
