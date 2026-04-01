@@ -2,7 +2,7 @@
 
 | Version | Release date | Windows | macOS | Source |
 |--------|--------------|---------|-------|--------|
-| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0a6-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0a6-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
+| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0a7-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0a7-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
 | 3.14.3 | — | https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe | https://www.python.org/ftp/python/3.14.3/python-3.14.3-macos11.pkg | https://www.python.org/ftp/python/3.14.3/ |
 | 3.14.2 | — | https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe | https://www.python.org/ftp/python/3.14.2/python-3.14.2-macos11.pkg | https://www.python.org/ftp/python/3.14.2/ |
 | 3.14.1 | — | https://www.python.org/ftp/python/3.14.1/python-3.14.1-amd64.exe | https://www.python.org/ftp/python/3.14.1/python-3.14.1-macos11.pkg | https://www.python.org/ftp/python/3.14.1/ |
@@ -20,6 +20,7 @@
 | 3.13.2 | — | https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe | https://www.python.org/ftp/python/3.13.2/python-3.13.2-macos11.pkg | https://www.python.org/ftp/python/3.13.2/ |
 | 3.13.1 | — | https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe | https://www.python.org/ftp/python/3.13.1/python-3.13.1-macos11.pkg | https://www.python.org/ftp/python/3.13.1/ |
 | 3.13.0 | — | https://www.python.org/ftp/python/3.13.0/python-3.13.0rc3-amd64.exe | https://www.python.org/ftp/python/3.13.0/python-3.13.0rc3-macos11.pkg | https://www.python.org/ftp/python/3.13.0/ |
+| 3.12.13 | — | — | — | https://www.python.org/ftp/python/3.12.13/ |
 | 3.12.12 | — | — | — | https://www.python.org/ftp/python/3.12.12/ |
 | 3.12.11 | — | — | — | https://www.python.org/ftp/python/3.12.11/ |
 | 3.12.10 | — | https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe | https://www.python.org/ftp/python/3.12.10/python-3.12.10-macos11.pkg | https://www.python.org/ftp/python/3.12.10/ |
@@ -33,6 +34,7 @@
 | 3.12.2 | — | https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe | https://www.python.org/ftp/python/3.12.2/python-3.12.2-macos11.pkg | https://www.python.org/ftp/python/3.12.2/ |
 | 3.12.1 | — | https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe | https://www.python.org/ftp/python/3.12.1/python-3.12.1-macos11.pkg | https://www.python.org/ftp/python/3.12.1/ |
 | 3.12.0 | — | https://www.python.org/ftp/python/3.12.0/python-3.12.0rc3-amd64.exe | https://www.python.org/ftp/python/3.12.0/python-3.12.0rc3-macos11.pkg | https://www.python.org/ftp/python/3.12.0/ |
+| 3.11.15 | — | — | — | https://www.python.org/ftp/python/3.11.15/ |
 | 3.11.14 | — | — | — | https://www.python.org/ftp/python/3.11.14/ |
 | 3.11.13 | — | — | — | https://www.python.org/ftp/python/3.11.13/ |
 | 3.11.12 | — | — | — | https://www.python.org/ftp/python/3.11.12/ |
@@ -48,6 +50,7 @@
 | 3.11.2 | — | https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe | https://www.python.org/ftp/python/3.11.2/python-3.11.2-macos11.pkg | https://www.python.org/ftp/python/3.11.2/ |
 | 3.11.1 | — | https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe | https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg | https://www.python.org/ftp/python/3.11.1/ |
 | 3.11.0 | — | https://www.python.org/ftp/python/3.11.0/python-3.11.0rc2-amd64.exe | https://www.python.org/ftp/python/3.11.0/python-3.11.0rc2-macos11.pkg | https://www.python.org/ftp/python/3.11.0/ |
+| 3.10.20 | — | — | — | https://www.python.org/ftp/python/3.10.20/ |
 | 3.10.19 | — | — | — | https://www.python.org/ftp/python/3.10.19/ |
 | 3.10.18 | — | — | — | https://www.python.org/ftp/python/3.10.18/ |
 | 3.10.17 | — | — | — | https://www.python.org/ftp/python/3.10.17/ |
