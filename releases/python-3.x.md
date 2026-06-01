@@ -2,7 +2,8 @@
 
 | Version | Release date | Windows | macOS | Source |
 |--------|--------------|---------|-------|--------|
-| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0a8-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0a8-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
+| 3.15.0 | — | https://www.python.org/ftp/python/3.15.0/python-3.15.0b1-amd64.exe | https://www.python.org/ftp/python/3.15.0/python-3.15.0b1-macos11.pkg | https://www.python.org/ftp/python/3.15.0/ |
+| 3.14.5 | — | https://www.python.org/ftp/python/3.14.5/python-3.14.5rc1-amd64.exe | https://www.python.org/ftp/python/3.14.5/python-3.14.5rc1_tcltk_903-macos11.pkg | https://www.python.org/ftp/python/3.14.5/ |
 | 3.14.4 | — | https://www.python.org/ftp/python/3.14.4/python-3.14.4-amd64.exe | https://www.python.org/ftp/python/3.14.4/python-3.14.4-macos11.pkg | https://www.python.org/ftp/python/3.14.4/ |
 | 3.14.3 | — | https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe | https://www.python.org/ftp/python/3.14.3/python-3.14.3-macos11.pkg | https://www.python.org/ftp/python/3.14.3/ |
 | 3.14.2 | — | https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe | https://www.python.org/ftp/python/3.14.2/python-3.14.2-macos11.pkg | https://www.python.org/ftp/python/3.14.2/ |
